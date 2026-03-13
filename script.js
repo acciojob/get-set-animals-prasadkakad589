@@ -12,7 +12,7 @@ class Animal {
 }
 
 class Dog extends Animal {
-	woof(){
+	bark(){
 		console.log("woof");
 	}
 }
